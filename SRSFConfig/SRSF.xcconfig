@@ -1,0 +1,15 @@
+//
+//  SRSF.xcconfig
+//  
+//
+//  Created by cyk on 6/6/15.
+//
+//
+//:configuration = Debug
+SDKROOT = macosx
+
+//:configuration = Release
+SDKROOT = macosx
+
+//:completeSettings = some
+SDKROOT
